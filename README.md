@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willc2k19
-- 👀 I’m interested in having fun with programming!
-- 🌱 I’m currently learning about Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence systems and Video Games!
+- 🌱 I’m currently studying Computer Games Programming at University
 - 📫 How to reach me: Email me at william_christensen2@aol.co.uk
 
 <!---
